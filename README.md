@@ -1,2 +1,4 @@
-# basic-logger-py-70
+# Basic Logger Py 70
+
 A simple logging class in Python.
+
